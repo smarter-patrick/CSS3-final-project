@@ -1,1 +1,1 @@
-# coursera-introduction-to-CSS3-final-project
+CSS3-final-project
